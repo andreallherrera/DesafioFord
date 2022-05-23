@@ -1,4 +1,4 @@
-const codigo = 'codigoW123%';
+const codigo = '1HGCM82633A004352';
 
 const criptografar = (string) => {
   const firstToAscii = string.split('').map((char) => {
